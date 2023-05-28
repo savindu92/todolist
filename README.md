@@ -1,6 +1,7 @@
 # Simple PHP todolist, school project
+You are required to create a shared Todo list capable of managing tasks
 
-## You are required to create a shared Todo list capable of managing tasks. As a user of your Todo list, I want to be able to:
+## As a user of your Todo list, I want to be able to:
 
 -View my Todo list
 
